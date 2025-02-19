@@ -16,20 +16,6 @@ I’m a **Full-Stack Web Developer** who’s passionate about building great pro
 
 ---
 
-
-### 🛠️ **Technologies I Work With**
-
-![HTML](https://img.shields.io/badge/HTML-Expert-orange)
-![CSS](https://img.shields.io/badge/CSS-Expert-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
-![React](https://img.shields.io/badge/React-Expert-61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-Expert-339933)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)
-
-
----
-
 ### 🚀 **What I Bring to the Table**
 - **Efficient Solutions**: I focus on delivering clean, optimized, and scalable code. 🧹
 - **User-Centric Design**: I create intuitive and responsive interfaces that users love. ❤️
@@ -46,6 +32,11 @@ If you’re interested in collaborating or have a project in mind, feel free to 
 ---
 
 ### 🛠️ **Technologies I Work With**
+![HTML](https://img.shields.io/badge/HTML-Expert-orange)
+![CSS](https://img.shields.io/badge/CSS-Expert-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
+![React](https://img.shields.io/badge/React-Expert-61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-Expert-339933)
 
 | **Category**            | **Technologies**                                                                 |
 |-------------------------|---------------------------------------------------------------------------------|
@@ -54,6 +45,7 @@ If you’re interested in collaborating or have a project in mind, feel free to 
 | **Database** 🗃️            | ✔️ SQL, ✔️ MySQL                                                                 |
 | **Other Tools** 🧰        | ✔️ Odoo Modules                                                                  |
 ---
+![Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)
 
 ### ⭐ **GitHub Badges**
 ![YOLO](https://github.githubassets.com/assets/yolo-default-be0bbff04951.png)
