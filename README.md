@@ -17,6 +17,25 @@ I’m a **Full-Stack Web Developer** who’s passionate about building great pro
 
 ### 🛠️ **Technologies I Work With**
 
+### Full-Stack Web Developer 💻
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)
+
+---
+
+### 🛠️ **Technologies I Work With**
+
+![HTML](https://img.shields.io/badge/HTML-Expert-orange)
+![CSS](https://img.shields.io/badge/CSS-Expert-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
+![React](https://img.shields.io/badge/React-Expert-61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-Expert-339933)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)
+
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 #### **Front-End Development** 🎨
 - ✔️ HTML/HTML5
 - ✔️ CSS (including frameworks like Bootstrap)
@@ -58,8 +77,10 @@ If you’re interested in collaborating or have a project in mind, feel free to 
 
 ---
 
-### ⭐ **GitHub Stats**
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+### ⭐ **GitHub Badges**
+![YOLO](https://github.githubassets.com/assets/yolo-default-be0bbff04951.png)
+![Quickdraw](https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png)
+![Pull Shark](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png)
 
 ---
 
