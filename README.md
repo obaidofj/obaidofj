@@ -2,6 +2,8 @@
 
 ### Full-Stack Web Developer 💻
 
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 I am work for:
 - ✔️ **Efficiency** ⚡
 - ✔️ **Excellent Quality** 🌟
@@ -11,8 +13,6 @@ I am work for:
 - ✔️ **Clear Code** ✨
   
 I’m a **Full-Stack Web Developer** who’s passionate about building great projects. I’m committed to delivering top-notch solutions that meet needs and exceed expectations. 💡
-
-![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ---
 
@@ -31,6 +31,8 @@ If you’re interested in collaborating or have a project in mind, feel free to 
 
 ---
 
+![Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)
+
 ### 🛠️ **Technologies I Work With**
 ![HTML](https://img.shields.io/badge/HTML-Expert-orange)
 ![CSS](https://img.shields.io/badge/CSS-Expert-blue)
@@ -45,7 +47,6 @@ If you’re interested in collaborating or have a project in mind, feel free to 
 | **Database** 🗃️            | ✔️ SQL, ✔️ MySQL                                                                 |
 | **Other Tools** 🧰        | ✔️ Odoo Modules                                                                  |
 ---
-![Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)
 
 ### ⭐ **GitHub Badges**
 ![YOLO](https://github.githubassets.com/assets/yolo-default-be0bbff04951.png)
