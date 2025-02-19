@@ -2,17 +2,18 @@
 
 ### Full-Stack Web Developer 💻
 
-If you’re looking for:
+I am work for:
 - ✔️ **Efficiency** ⚡
 - ✔️ **Excellent Quality** 🌟
 - ✔️ **High Performance** 🚀
 - ✔️ **Responsive Websites** 📱
 - ✔️ **User-Friendly Interfaces** 😊
 - ✔️ **Clear Code** ✨
-
-...then you’re at the right place! 🎯  
+  
 I’m a **Full-Stack Web Developer** who’s passionate about building great projects. I’m committed to delivering top-notch solutions that meet needs and exceed expectations. 💡
+
 ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 ---
 
 
@@ -26,29 +27,6 @@ I’m a **Full-Stack Web Developer** who’s passionate about building great pro
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)
 
-
-#### **Front-End Development** 🎨
-- ✔️ HTML/HTML5
-- ✔️ CSS (including frameworks like Bootstrap)
-- ✔️ JavaScript (ES6+)
-- ✔️ Angular
-- ✔️ React.js
-- ✔️ Oracle JET
-
-#### **Back-End Development** ⚙️
-- ✔️ Express.js
-- ✔️ .NET Core
-- ✔️ PHP
-- ✔️ Laravel
-- ✔️ Node.js
-- ✔️ Firebase
-
-#### **Database** 🗃️
-- ✔️ SQL
-- ✔️ MySQL
-
-#### **Other Tools** 🧰
-- ✔️ Odoo Modules
 
 ---
 
