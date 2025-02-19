@@ -12,9 +12,9 @@ I am work for:
   
 I’m a **Full-Stack Web Developer** who’s passionate about building great projects. I’m committed to delivering top-notch solutions that meet needs and exceed expectations. 💡
 
-![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
----
 
+---
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 ### 🚀 **What I Bring to the Table**
 - **Efficient Solutions**: I focus on delivering clean, optimized, and scalable code. 🧹
 - **User-Centric Design**: I create intuitive and responsive interfaces that users love. ❤️
