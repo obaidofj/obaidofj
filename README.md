@@ -2,8 +2,6 @@
 
 ### Full-Stack Web Developer 💻
 
-![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
 I am work for:
 - ✔️ **Efficiency** ⚡
 - ✔️ **Excellent Quality** 🌟
@@ -14,6 +12,7 @@ I am work for:
   
 I’m a **Full-Stack Web Developer** who’s passionate about building great projects. I’m committed to delivering top-notch solutions that meet needs and exceed expectations. 💡
 
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 ---
 
 ### 🚀 **What I Bring to the Table**
