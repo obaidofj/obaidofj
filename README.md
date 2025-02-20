@@ -1,4 +1,4 @@
-# Hi there, I'm Obaid Allah Nieroukh 👋
+# Hi .. I'm Obaid Allah Nieroukh 👋
 
 ### Full-Stack Web Developer 💻
 
