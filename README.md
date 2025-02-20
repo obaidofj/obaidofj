@@ -41,8 +41,8 @@ If you’re interested in collaborating or have a project in mind, feel free to 
 
 | **Category**            | **Technologies**                                                                 |
 |-------------------------|---------------------------------------------------------------------------------|
-| **Front-End Development** 🎨 | ✔️ HTML/HTML5, ✔️ CSS (including frameworks like Bootstrap), ✔️ JavaScript (ES6+), ✔️ Angular, ✔️ React.js, ✔️ Oracle JET |
-| **Back-End Development** ⚙️  | ✔️ Express.js, ✔️ .NET Core, ✔️ PHP, ✔️ Laravel, ✔️ Node.js, ✔️ Firebase          |
+| **Front-End Development** 🎨 | ✔️ HTML/HTML5, ✔️ CSS (including frameworks like Bootstrap), ✔️ JavaScript (ES6+), ✔️ Angular, ✔️ React.js, ✔️ Oracle JET, ✔️ Odoo Frontend|
+| **Back-End Development** ⚙️  | ✔️ Express.js, ✔️ .NET Core, ✔️ PHP, ✔️ Laravel, ✔️ Node.js, ✔️ Odoo Backend, ✔️ Firebase          |
 | **Database** 🗃️            | ✔️ SQL, ✔️ MySQL                                                                 |
 | **Other Tools** 🧰        | ✔️ Odoo Modules                                                                  |
 ---
