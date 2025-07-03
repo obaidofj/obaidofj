@@ -48,9 +48,6 @@ If you’re interested in collaborating or have a project in mind, feel free to 
 ---
 
 ### ⭐ **GitHub Badges**
-![YOLO](https://github.githubassets.com/assets/yolo-default-be0bbff04951.png)
-![Quickdraw](https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png)
-![Pull Shark](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png)
 
 ---
 
